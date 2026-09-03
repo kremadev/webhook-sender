@@ -1,2 +1,2 @@
 # webhook-sender
-A webhook sender for discord in C#
+A webhook sender for discord in python
